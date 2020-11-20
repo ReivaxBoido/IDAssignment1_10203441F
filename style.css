@@ -20,7 +20,7 @@ body {
 }
 
 article {
-    width: 600px;
+    width: 400px;
     text-align: center;
     border-style: groove;
 }
@@ -35,6 +35,10 @@ article.hobbies {
 
 article.form {
     background-color: rgba(255, 255, 0, 0.096);
+}
+
+article.links {
+    background-color: rgba(37, 255, 37, 0.096);
 }
 
 article > header {
