@@ -13,6 +13,19 @@ body {
     background-color: lightgrey;
 }
 
+p {
+    font-size: 20px;
+}
+
+ul {
+    text-align: left;
+    font-size: 20px;
+}
+
+button {
+    width: 220px;
+}
+
 .flex {
     display: flex;
     justify-content: space-around;
@@ -21,12 +34,18 @@ body {
 
 article {
     width: 400px;
+    height: 800px;
     text-align: center;
     border-style: groove;
+    margin-bottom: 30px;
 }
 
 article.intro {
     background-color: rgba(255, 0, 0, 0.096);
+}
+
+article.experience {
+    background-color: rgba(141, 0, 141, 0.096);
 }
 
 article.hobbies {
@@ -47,15 +66,18 @@ article > header {
     font-weight: bold;
 }
 
-p {
-    font-family: Arial;
-    font-size: 20px;
+@media only screen and (max-width: 2000px) {
+    .flex{
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-content: center;
+    }
 }
 
-@media only screen and (max-width: 1800px) {
+/*@media only screen and (max-width: 2000px) {
     .flex{
         flex-wrap: wrap;
         flex-direction: column;
         align-content: center;
     }
-}
+}*/
