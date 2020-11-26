@@ -43,5 +43,8 @@ The photos used for hobby were obtained from:
 * https://osu.ppy.sh/help/wiki/Game_mode/osu!
 * https://www.engadget.com/minecraft-200-million-copies-sold-153328819.html
 
+The photo used for the header was obtained from:
+* https://i0.wp.com/www.smartertravel.com/uploads/2017/08/grand-canyon-sunset.jpg?resize=1400%2C500&ssl=1
+
 ## Acknowledgement
 This Portfolio was made for my personal use and ID Assignment 1
