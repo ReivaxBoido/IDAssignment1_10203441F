@@ -30,7 +30,7 @@ a {
     color: blue;
 }
 
-li a:hover {
+ul.nav a:hover {
     background-color: white;
   }
 
@@ -52,13 +52,22 @@ ul.nav {
     font-family: Arial;
 }
 
-p {
-    font-size: 20px;
+ul.programming {
+    list-style-type: square;
 }
 
 ul {
     text-align: left;
     font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-family: 'Italianno', cursive;
+    font-size: 50px;
 }
 
 button {
