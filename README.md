@@ -28,20 +28,20 @@ Embedded Google Form if you would like to leave me a question.
 Link to my wixsite (embedded) and ICT Portfolio.
 
 ## Libraries
-### [Normalize] (https://necolas.github.io/normalize.css/)
+### [Normalize](https://necolas.github.io/normalize.css/)
 Helps to render all element more consistently.
 
 ## Credits
 ### Content
 Some of the text for hobby were copied from:
-*https://en.wikipedia.org/wiki/Warframe
-*https://en.wikipedia.org/wiki/Osu!
-*https://en.wikipedia.org/wiki/Minecraft
+* https://en.wikipedia.org/wiki/Warframe
+* https://en.wikipedia.org/wiki/Osu!
+* https://en.wikipedia.org/wiki/Minecraft
 ### Media
 The photos used for hobby were obtained from:
-*https://www.microsoft.com/en-us/p/warframe/bps3xf74b9v1?activetab=pivot:overviewtab
-*https://osu.ppy.sh/help/wiki/Game_mode/osu!
-*https://www.engadget.com/minecraft-200-million-copies-sold-153328819.html
+* https://www.microsoft.com/en-us/p/warframe/bps3xf74b9v1?activetab=pivot:overviewtab
+* https://osu.ppy.sh/help/wiki/Game_mode/osu!
+* https://www.engadget.com/minecraft-200-million-copies-sold-153328819.html
 
 ## Acknowledgement
 This Portfolio was made for my personal use and ID Assignment 1
