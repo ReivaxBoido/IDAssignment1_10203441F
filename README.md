@@ -35,7 +35,7 @@ Helps to render all element more consistently.
 ### Content
 Some of the text for hobby were copied from:
 * https://en.wikipedia.org/wiki/Warframe
-* https://en.wikipedia.org/wiki/Osu!
+* [https://en.wikipedia.org/wiki/Osu!](https://en.wikipedia.org/wiki/Osu!)
 * https://en.wikipedia.org/wiki/Minecraft
 ### Media
 The photos used for hobby were obtained from:
