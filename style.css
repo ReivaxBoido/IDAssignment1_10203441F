@@ -21,6 +21,12 @@ img.headerimg {
     left: 0;
 }
 
+.bigme {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
 li a {
     padding: 8px;
 }
@@ -36,7 +42,8 @@ ul.nav a:hover {
 
 .active {
     background-color: lightblue;
-    padding: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
 }
 
 ul.nav {
