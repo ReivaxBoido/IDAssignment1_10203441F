@@ -40,7 +40,7 @@ Some of the text for hobby were copied from:
 ### Media
 The photos used for hobby were obtained from:
 * https://www.microsoft.com/en-us/p/warframe/bps3xf74b9v1?activetab=pivot:overviewtab
-* https://osu.ppy.sh/help/wiki/Game_mode/osu!
+* [https://osu.ppy.sh/help/wiki/Game_mode/osu!](https://osu.ppy.sh/help/wiki/Game_mode/osu!)
 * https://www.engadget.com/minecraft-200-million-copies-sold-153328819.html
 
 The photo used for the header was obtained from:
